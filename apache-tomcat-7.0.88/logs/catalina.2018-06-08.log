@@ -1,0 +1,172 @@
+Jun 08, 2018 7:30:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.88
+Jun 08, 2018 7:30:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          May 7 2018 11:12:57 UTC
+Jun 08, 2018 7:30:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.88.0
+Jun 08, 2018 7:30:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Linux
+Jun 08, 2018 7:30:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            3.10.0-862.3.2.el7.x86_64
+Jun 08, 2018 7:30:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Jun 08, 2018 7:30:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.171-8.b10.el7_5.x86_64/jre
+Jun 08, 2018 7:30:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_171-b10
+Jun 08, 2018 7:30:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Jun 08, 2018 7:30:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /home/deepikamarathi493/project1/apache-tomcat-7.0.88
+Jun 08, 2018 7:30:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /home/deepikamarathi493/project1/apache-tomcat-7.0.88
+Jun 08, 2018 7:30:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/home/deepikamarathi493/project1/apache-tomcat-7.0.88/conf/logging.properties
+Jun 08, 2018 7:30:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Jun 08, 2018 7:30:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Jun 08, 2018 7:30:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dignore.endorsed.dirs=
+Jun 08, 2018 7:30:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/home/deepikamarathi493/project1/apache-tomcat-7.0.88
+Jun 08, 2018 7:30:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/home/deepikamarathi493/project1/apache-tomcat-7.0.88
+Jun 08, 2018 7:30:42 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/home/deepikamarathi493/project1/apache-tomcat-7.0.88/temp
+Jun 08, 2018 7:30:42 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Jun 08, 2018 7:30:42 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-7777"]
+Jun 08, 2018 7:30:42 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Jun 08, 2018 7:30:42 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1027 ms
+Jun 08, 2018 7:30:42 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Jun 08, 2018 7:30:42 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.88
+Jun 08, 2018 7:30:42 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/deepikamarathi493/project1/apache-tomcat-7.0.88/webapps/ROOT
+Jun 08, 2018 7:30:43 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/deepikamarathi493/project1/apache-tomcat-7.0.88/webapps/ROOT has finished in 633 ms
+Jun 08, 2018 7:30:43 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/deepikamarathi493/project1/apache-tomcat-7.0.88/webapps/docs
+Jun 08, 2018 7:30:43 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/deepikamarathi493/project1/apache-tomcat-7.0.88/webapps/docs has finished in 144 ms
+Jun 08, 2018 7:30:43 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/deepikamarathi493/project1/apache-tomcat-7.0.88/webapps/examples
+Jun 08, 2018 7:30:44 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/deepikamarathi493/project1/apache-tomcat-7.0.88/webapps/examples has finished in 521 ms
+Jun 08, 2018 7:30:44 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/deepikamarathi493/project1/apache-tomcat-7.0.88/webapps/host-manager
+Jun 08, 2018 7:30:44 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/deepikamarathi493/project1/apache-tomcat-7.0.88/webapps/host-manager has finished in 378 ms
+Jun 08, 2018 7:30:44 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/deepikamarathi493/project1/apache-tomcat-7.0.88/webapps/manager
+Jun 08, 2018 7:30:44 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/deepikamarathi493/project1/apache-tomcat-7.0.88/webapps/manager has finished in 238 ms
+Jun 08, 2018 7:30:44 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-7777"]
+Jun 08, 2018 7:30:45 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Jun 08, 2018 7:30:45 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2110 ms
+Jun 08, 2018 7:32:34 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /home/deepikamarathi493/project1/apache-tomcat-7.0.88/webapps/project1.war
+Jun 08, 2018 7:32:35 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /home/deepikamarathi493/project1/apache-tomcat-7.0.88/webapps/project1.war has finished in 123 ms
+Jun 08, 2018 7:32:48 AM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Jun 08, 2018 7:32:48 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-7777"]
+Jun 08, 2018 7:32:48 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Jun 08, 2018 7:32:48 AM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Jun 08, 2018 7:32:48 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-7777"]
+Jun 08, 2018 7:32:48 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Jun 08, 2018 7:32:48 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-7777"]
+Jun 08, 2018 7:32:48 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Jun 08, 2018 7:32:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.88
+Jun 08, 2018 7:32:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          May 7 2018 11:12:57 UTC
+Jun 08, 2018 7:32:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.88.0
+Jun 08, 2018 7:32:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Linux
+Jun 08, 2018 7:32:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            3.10.0-862.3.2.el7.x86_64
+Jun 08, 2018 7:32:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Jun 08, 2018 7:32:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.171-8.b10.el7_5.x86_64/jre
+Jun 08, 2018 7:32:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_171-b10
+Jun 08, 2018 7:32:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Jun 08, 2018 7:32:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /home/deepikamarathi493/project1/apache-tomcat-7.0.88
+Jun 08, 2018 7:32:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /home/deepikamarathi493/project1/apache-tomcat-7.0.88
+Jun 08, 2018 7:32:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/home/deepikamarathi493/project1/apache-tomcat-7.0.88/conf/logging.properties
+Jun 08, 2018 7:32:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Jun 08, 2018 7:32:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Jun 08, 2018 7:32:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dignore.endorsed.dirs=
+Jun 08, 2018 7:32:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/home/deepikamarathi493/project1/apache-tomcat-7.0.88
+Jun 08, 2018 7:32:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/home/deepikamarathi493/project1/apache-tomcat-7.0.88
+Jun 08, 2018 7:32:51 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/home/deepikamarathi493/project1/apache-tomcat-7.0.88/temp
+Jun 08, 2018 7:32:51 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Jun 08, 2018 7:32:51 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-7777"]
+Jun 08, 2018 7:32:51 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Jun 08, 2018 7:32:51 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 965 ms
+Jun 08, 2018 7:32:51 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Jun 08, 2018 7:32:51 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.88
+Jun 08, 2018 7:32:51 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /home/deepikamarathi493/project1/apache-tomcat-7.0.88/webapps/project1.war
+Jun 08, 2018 7:32:52 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /home/deepikamarathi493/project1/apache-tomcat-7.0.88/webapps/project1.war has finished in 513 ms
+Jun 08, 2018 7:32:52 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/deepikamarathi493/project1/apache-tomcat-7.0.88/webapps/ROOT
+Jun 08, 2018 7:32:52 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/deepikamarathi493/project1/apache-tomcat-7.0.88/webapps/ROOT has finished in 107 ms
+Jun 08, 2018 7:32:52 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/deepikamarathi493/project1/apache-tomcat-7.0.88/webapps/docs
+Jun 08, 2018 7:32:52 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/deepikamarathi493/project1/apache-tomcat-7.0.88/webapps/docs has finished in 72 ms
+Jun 08, 2018 7:32:52 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/deepikamarathi493/project1/apache-tomcat-7.0.88/webapps/examples
+Jun 08, 2018 7:32:52 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/deepikamarathi493/project1/apache-tomcat-7.0.88/webapps/examples has finished in 372 ms
+Jun 08, 2018 7:32:52 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/deepikamarathi493/project1/apache-tomcat-7.0.88/webapps/host-manager
+Jun 08, 2018 7:32:52 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/deepikamarathi493/project1/apache-tomcat-7.0.88/webapps/host-manager has finished in 182 ms
+Jun 08, 2018 7:32:52 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/deepikamarathi493/project1/apache-tomcat-7.0.88/webapps/manager
+Jun 08, 2018 7:32:52 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/deepikamarathi493/project1/apache-tomcat-7.0.88/webapps/manager has finished in 205 ms
+Jun 08, 2018 7:32:53 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-7777"]
+Jun 08, 2018 7:32:53 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Jun 08, 2018 7:32:53 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1606 ms
